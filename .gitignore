@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac OS X
+.DS_Store
+._*
+
+# Composer
+/composer.phar
+/vendor
+
+# NPM
+themes/node_modules/
+=======
+/build/
+/bin/
+node_modules/
+vendor/
+debug.log
+.vscode
+.DS_Store
+.log
+me/
+captain_clegg/
+.correcter.bash
+>>>>>>> 7c10940 (initial commit)
